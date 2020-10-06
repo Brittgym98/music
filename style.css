@@ -2,15 +2,17 @@ h1 {
   font-size: 8em; /* 1em = 12pt = 16px */
   font-family: "Helvetica", cursive, sans-serif;
   color: blue
+  border-bottom: 1px black
 }
 
 h2 {
   font-size: 1em;
   font-family: "Helvetica", cursive, sans-serif;
   color: darkgreen
+  border-bottom: 1px black
 }
 
 p{
   font-family: Courier, Monaco, monospace;
-  color: darkgrey
+  color: black
 }
