@@ -4,7 +4,13 @@ h1 {
   color: blue
 }
 
+h2 {
+  font-size: 5em;
+  font-family: "Helvetica", cursive, sans-serif;
+  color: darkgreen
+}
+
 p{
   font-family: Courier, Monaco, monospace;
-  color: brown
+  color: darkgrey
 }
